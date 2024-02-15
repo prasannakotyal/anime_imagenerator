@@ -22,7 +22,7 @@ nsfw_categories = ["anal", "ass", "bdsm", "cum", "classic", "creampie", "manga",
                    "nsfwMobileWallpaper", "zettaiRyouiki"]
 
 # Streamlit app
-st.title("HMtai Image Generator")
+st.title("Welcome to Hanimator")
 
 # Category selection
 category_type = st.radio("Select category type:", ("SFW", "NSFW"))
