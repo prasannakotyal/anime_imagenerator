@@ -1,0 +1,10 @@
+
+[general]
+port = $PORT
+
+[server]
+headless = true
+enableCORS = false
+
+[browser]
+serverAddress = "0.0.0.0"
