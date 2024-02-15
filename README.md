@@ -4,6 +4,6 @@ A web app to generate a random image of your selected category
 API USED: Hmtai 
 It is made for the cute, loving, lustful, horny anime fans where they would appreiciate a hint of randomness.
 
-website : ([hanimator.streamlit.app](https://hanimator.streamlit.app/)https://hanimator.streamlit.app/)
+website : [click here](https://hanimator.streamlit.app/)
 
 Have Fun :)
