@@ -1,6 +1,6 @@
 
 [general]
-port = $PORT
+port = 80
 
 [server]
 headless = true
