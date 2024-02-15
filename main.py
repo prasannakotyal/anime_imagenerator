@@ -10,11 +10,10 @@ def generate_image(category):
         return "Invalid category"
 
 # SFW and NSFW categories
-sfw_categories = ["wave", "tea", "punch", "poke", "pat", "kiss", "feed", "hug", "cuddle", "cry", 
-                  "slap", "lick", "bite", "dance", "boop", "sleep", "like", "kill", "nosebleed", 
-                  "threaten", "tickle", "depression", "jahy_arts", "neko_arts", "coffee_arts", 
-                  "wallpaper", "mobileWallpaper"]
-
+sfw_categories = ["bite", "boop", "coffee_arts", "cry", "cuddle", "dance", "depression", "feed",
+                  "hug", "jahy_arts", "kill", "kiss", "lick", "like", "nosebleed",
+                  "neko_arts", "pat", "poke", "punch", "sleep", "slap", "tea", "threaten", "tickle",
+                  "wave"]
 nsfw_categories = ["anal", "ass", "bdsm", "cum", "classic", "creampie", "manga", "femdom", "hentai",
                    "incest", "masturbation", "public", "ero", "orgy", "elves", "yuri", "pantsu", 
                    "glasses", "cuckold", "blowjob", "boobjob", "footjob", "handjob", "boobs", "thighs", 
