@@ -39,7 +39,21 @@ if st.button("Generate Image"):
     else:
         st.warning("Invalid category selected.")
 
-# Footer section positioned to the right bottom
-st.markdown("<div style='position: absolute; right: 10px; bottom: 10px;'>Creator: Prasanna Kotyal</div>", unsafe_allow_html=True)
+# Footer section at the bottom
+st.markdown("""
+<style>
+    .footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: #f1f1f1;
+        text-align: right;
+        padding: 5px;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown('<div class="footer">Creator: Prasanna Kotyal</div>', unsafe_allow_html=True)
 
 # Run the app
