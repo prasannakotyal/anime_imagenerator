@@ -38,3 +38,8 @@ if st.button("Generate Image"):
             st.image(image_url, caption=f"Generated Image for {category}", use_column_width=True)
     else:
         st.warning("Invalid category selected.")
+
+# Footer section positioned to the right bottom
+st.markdown("<div style='position: absolute; right: 10px; bottom: 10px;'>Creator: Prasanna Kotyal</div>", unsafe_allow_html=True)
+
+# Run the app
